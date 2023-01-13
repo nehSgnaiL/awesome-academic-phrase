@@ -10,6 +10,8 @@ Pull requests are welcome, please feel free to raise [pull requests](https://git
 
 
 ## General words
-| Word               | Example                                                                                                                                                           |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <kbd>conduct</kbd> | "The review will be **conducted** through the above broadened perspectives of human mobility." [(Wang et al. 2019)](https://doi.org/10.1016/j.cities.2022.103939) |
+| Word                                                                            | Example                                                                                                                                                                                                                                                                                 |
+|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [<kbd>conduct</kbd>](https://dictionary.cambridge.org/dictionary/english/conduct) | "The review will be **conducted** through the above broadened perspectives of human mobility." [(Wang et al. 2019)](https://doi.org/10.1016/j.cities.2022.103939)                                                                                                                       |
+| [<kbd>cater</kbd>](https://dictionary.cambridge.org/dictionary/english/cater) | "The present study proposes a universal approach to classifying intra-city tourists, which not only **caters** to the development of geo-big data but also incorporates the perspective of urban tourism functions." [(Park et al. 2023)](https://doi.org/10.1016/j.tourman.2022.104718) |
+
