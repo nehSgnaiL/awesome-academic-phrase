@@ -42,7 +42,28 @@ If true, the discovery would be one of the biggest ever in condensed matter phys
 On the other hand, he says, researchers at Argonne and elsewhere are already trying to [replicate](https://dictionary.cambridge.org/dictionary/english/replicate) the experiment.
 ...
 What’s more, the disorder introduced by the doping ought to further [suppress](https://dictionary.cambridge.org/dictionary/english/suppress) superconductivity.
-...How will this **be sorted out**?
+...
+How will this **be sorted out**?
 The big question will be whether anybody can reproduce the observations.
 ...
 "
+
+<sup>*[accessed on 1 Aug, 2023]*<sup/>
+
+#### ChatGPT-like AIs are coming to major science search engines [(Richard Van Noorden, 2023)](https://doi.org/10.1038/d41586-023-02470-3)
+> *Scopus, Dimensions and Web of Science are introducing conversational AI search.*
+
+- "...
+Many other AI search engine systems adopt a similar [strategy](https://dictionary.cambridge.org/dictionary/english/strategy),
+...
+Elsevier has also cut down the unpredictability of its AI by picking a low setting for the bot’s ‘temperature’ — a measure of how often it chooses to [deviate](https://dictionary.cambridge.org/dictionary/english/deviate) from the most [plausible](https://dictionary.cambridge.org/dictionary/english/plausible) words in its response.
+...
+Might users simply copy and paste the bot’s paragraphs into their own papers, effectively [plagiarizing](https://dictionary.cambridge.org/dictionary/english/plagiarize) the tool?
+...
+Elsevier has so far [tackled](https://dictionary.cambridge.org/dictionary/english/tackle) this with guidance that asks researchers to use the summaries responsibly, he says. Khan points out that funders and publishers have [issued](https://dictionary.cambridge.org/dictionary/english/issue) similar guidance, asking for transparent [disclosure](https://dictionary.cambridge.org/dictionary/english/disclosure) if LLMs are used in,
+...
+a search engine first [retrieves](https://dictionary.cambridge.org/dictionary/english/retrieve) relevant articles,
+...
+"
+
+<sup>*[accessed on 2 Aug, 2023]*<sup/>
