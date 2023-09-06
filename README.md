@@ -67,3 +67,21 @@ a search engine first [retrieves](https://dictionary.cambridge.org/dictionary/en
 "
 
 <sup>*[accessed on 2 Aug, 2023]*<sup/>
+
+#### Is Fukushima wastewater release safe? What the science says [(Bianca Nogrady, 2023)](https://doi.org/10.1038/d41586-023-02057-y)
+> *Radiation in the water will be diluted to almost-background levels, but some researchers are not sure this will be sufficient to mitigate the risks*
+
+- "...
+Japan is pressing ahead with plans to release water [contaminated](https://dictionary.cambridge.org/dictionary/english/contaminate) by the 2011 meltdown of the Fukushima Daiichi nuclear power plant into the Pacific Ocean.
+...
+Jim Smith, ..., says the risk this poses to nations around the Pacific Ocean will probably be [negligible](https://dictionary.cambridge.org/dictionary/english/negligible).
+...
+ But Richmond is concerned the tritium could [concentrate](https://dictionary.cambridge.org/dictionary/english/concentrate) in the food web as larger organisms eat smaller contaminated ones.
+...
+Shigeyoshi Otosaka says that the organically bound form of tritium could [accumulate](https://dictionary.cambridge.org/dictionary/english/accumulate) in fish and marine organisms.
+...
+“We have confirmed that the tritium concentrations in the bodies of marine organisms reach [equilibrium](https://dictionary.cambridge.org/dictionary/english/equilibrium) after a certain period of time and do not exceed the concentrations in the living environment,” the spokesperson said.
+...
+"
+
+<sup>*[accessed on 6 Sep, 2023]*<sup/>
