@@ -85,3 +85,18 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 "
 
 <sup>*[accessed on 6 Sep, 2023]*<sup/>
+
+## Book
+#### The Book of Why: The New Science of Cause and Effect [(Pearl, Judea, and Dana Mackenzie, 2018)](https://en.wikipedia.org/wiki/The_Book_of_Why)
+- "Causal inference is all about taking this question seriously. It [posits](https://dictionary.cambridge.org/dictionary/english/posit) that
+the human brain is the most advanced tool ever [devised](https://dictionary.cambridge.org/dictionary/english/devise) for managing causes
+and effects. Our brains store an incredible amount of causal knowledge
+which, supplemented by data, we could [harness](https://dictionary.cambridge.org/dictionary/english/harness) to answer some of the most
+[pressing](https://dictionary.cambridge.org/dictionary/english/pressing) questions of our time. More ambitiously, once we really understand
+the logic behind causal thinking, we could [emulate](https://dictionary.cambridge.org/dictionary/english/emulate) it on modern computers
+and create an “artificial scientist.” This smart robot would discover yet
+unknown phenomena, find explanations to pending scientific [dilemmas](https://dictionary.cambridge.org/dictionary/english/dilemmas),
+design new experiments, and continually extract more causal knowledge from
+the environment."
+
+<sup>*[recorded on 24 Nov, 2023]*<sup/>
