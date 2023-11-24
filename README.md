@@ -95,7 +95,7 @@ which, supplemented by data, we could [harness](https://dictionary.cambridge.org
 [pressing](https://dictionary.cambridge.org/dictionary/english/pressing) questions of our time. More ambitiously, once we really understand
 the logic behind causal thinking, we could [emulate](https://dictionary.cambridge.org/dictionary/english/emulate) it on modern computers
 and create an “artificial scientist.” This smart robot would discover yet
-unknown phenomena, find explanations to pending scientific [dilemmas](https://dictionary.cambridge.org/dictionary/english/dilemmas),
+unknown phenomena, find explanations to pending scientific [dilemmas](https://dictionary.cambridge.org/dictionary/english/dilemma),
 design new experiments, and continually extract more causal knowledge from
 the environment."
 
