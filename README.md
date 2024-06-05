@@ -9,31 +9,36 @@ A curated list of academic phrases in research papers.
 Pull requests are welcome, please feel free to raise [pull requests](https://github.com/nehSgnaiL/awesome-academic-phrase/pulls) to add new recommendation.
 
 
-## General words
-| Word                                                                              | Example                                                                                                                                                                                                                                                                                  |
-|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<kbd>conduct</kbd>](https://dictionary.cambridge.org/dictionary/english/conduct) | "The review will be **conducted** through the above broadened perspectives of human mobility." [(Wang et al. 2019)](https://doi.org/10.1016/j.cities.2022.103939)                                                                                                                        |
-| [<kbd>cater</kbd>](https://dictionary.cambridge.org/dictionary/english/cater)     | "The present study proposes a universal approach to classifying intra-city tourists, which not only **caters** to the development of geo-big data but also incorporates the perspective of urban tourism functions." [(Park et al. 2023)](https://doi.org/10.1016/j.tourman.2022.104718) |
-| [<kbd>deviate</kbd>](https://dictionary.cambridge.org/dictionary/english/deviate) | "However, training LSTM with maximum likelihood estimation suffers from the exposure bias problem, where the generated samples might **deviate** from a realistic path with longer sequences." [(Kun et al. 2018)](https://doi.org/10.24963/ijcai.2018/530)                              |
+## Table of Contents
+#### General words
+<details>
+<summary><b>Expand to see all recorded general words...</b></summary>
+
+- [<kbd>conduct</kbd>](https://dictionary.cambridge.org/dictionary/english/conduct): "The review will be **conducted** through the above broadened perspectives of human mobility." [(Wang et al. 2019)](https://doi.org/10.1016/j.cities.2022.103939)
+- [<kbd>cater</kbd>](https://dictionary.cambridge.org/dictionary/english/cater): "The present study proposes a universal approach to classifying intra-city tourists, which not only **caters** to the development of geo-big data but also incorporates the perspective of urban tourism functions." [(Park et al. 2023)](https://doi.org/10.1016/j.tourman.2022.104718)
+- [<kbd>deviate</kbd>](https://dictionary.cambridge.org/dictionary/english/deviate): "However, training LSTM with maximum likelihood estimation suffers from the exposure bias problem, where the generated samples might **deviate** from a realistic path with longer sequences." [(Kun et al. 2018)](https://doi.org/10.24963/ijcai.2018/530)                              
+
+</details>
+
+#### Adjective
+- [<kbd>arbitrary</kbd>](https://dictionary.cambridge.org/dictionary/english/arbitrary): "The proposed approach builds on concepts from convolutional neural networks (CNNs) for images and extends them to **arbitrary** graphs." [(Niepert et al. 2016)](https://doi.org/10.48550/arXiv.1605.05273)
+
+#### Algorithm
+<details>
+<summary><b>Expand to see all recorded algorithm words...</b></summary>
+
+- [<kbd>heuristic</kbd>](https://dictionary.cambridge.org/dictionary/english/heuristic): "The A* algorithm is a **heuristic** search algorithm used extensively on the road network." [(Jiang et al. 2023)](https://doi.org/10.48550/arXiv.2301.07103)
+- [<kbd>spherical</kbd>](https://dictionary.cambridge.org/dictionary/english/spherical): "The **spherical** distance can not accurately estimate the expected cost." [(Jiang et al. 2023)](https://doi.org/10.48550/arXiv.2301.07103)
+- [<kbd>merit</kbd>](https://dictionary.cambridge.org/dictionary/english/merit): "Both class of methods have their own **merits**, and transportation system applications require the right methods." [(Yu et al. 2019)](https://doi.org/10.1109/TITS.2019.2910560)
+</details>
 
 
-## Algorithm
-| Word                                                                                  | Example                                                                                                                                                       |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<kbd>heuristic</kbd>](https://dictionary.cambridge.org/dictionary/english/heuristic) | "The A* algorithm is a **heuristic** search algorithm used extensively on the road network." [(Jiang et al. 2023)](https://doi.org/10.48550/arXiv.2301.07103) |
-| [<kbd>spherical</kbd>](https://dictionary.cambridge.org/dictionary/english/spherical) | "The **spherical** distance can not accurately estimate the expected cost." [(Jiang et al. 2023)](https://doi.org/10.48550/arXiv.2301.07103)                  |
+#### Daily life
+
+- [<kbd>thermal</kbd>](https://dictionary.cambridge.org/dictionary/english/thermal): **thermal** tumbler, **thermal** comfort
 
 
-[<kbd>merit</kbd>](https://dictionary.cambridge.org/dictionary/english/merit)
-- "Both class of methods have their own **merits**, and transportation system applications require the right methods." [(Yu et al. 2019)](https://doi.org/10.1109/TITS.2019.2910560)
-
-
-## Daily life
-[<kbd>thermal</kbd>](https://dictionary.cambridge.org/dictionary/english/thermal)
-- **thermal** tumbler, **thermal** comfort
-
-
-## Report
+#### Report
 #### A spectacular superconductor claim is making news. Here’s why experts are doubtful [(ADRIAN CHO, 2023)](https://doi.org/10.1126/science.adk0021)
 
 - "This week, social media has been [aflutter](https://dictionary.cambridge.org/dictionary/english/aflutter) over a claim for a new superconductor that works not only well above room temperatures, but also at [ambient](https://dictionary.cambridge.org/dictionary/english/ambient) pressure.
@@ -86,7 +91,7 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 
 <sup>*[accessed on 6 Sep, 2023]*<sup/>
 
-## Book
+#### Book
 #### The Book of Why: The New Science of Cause and Effect [(Judea Pearl and Dana Mackenzie, 2018)](https://en.wikipedia.org/wiki/The_Book_of_Why)
 - "Causal inference is all about taking this question seriously. It [posits](https://dictionary.cambridge.org/dictionary/english/posit) that
 the human brain is the most advanced tool ever [devised](https://dictionary.cambridge.org/dictionary/english/devise) for managing causes
