@@ -21,7 +21,14 @@ Pull requests are welcome, please feel free to raise [pull requests](https://git
 </details>
 
 #### Adjective
-- [<kbd>arbitrary</kbd>](https://dictionary.cambridge.org/dictionary/english/arbitrary): "The proposed approach builds on concepts from convolutional neural networks (CNNs) for images and extends them to **arbitrary** graphs." [(Niepert et al. 2016)](https://doi.org/10.48550/arXiv.1605.05273)
+[(Niepert et al. 2016)]: https://doi.org/10.48550/arXiv.1605.05273
+- [<kbd>arbitrary</kbd>](https://dictionary.cambridge.org/dictionary/english/arbitrary): "The proposed approach builds on concepts from convolutional neural networks (CNNs) for images and extends them to **arbitrary** graphs." [(Niepert et al. 2016)]
+
+#### Mathematical
+- general
+  - [<kbd>quadratic</kbd>](https://dictionary.cambridge.org/dictionary/english/quadratic): "While all graph kernels have a training complexity at least **quadratic** in the number of graphs, which is prohibitive for large-scale problems, PATCHY-SAN scales linearly with the number of graphs." [(Niepert et al. 2016)]
+- graph
+  - [<kbd>isomorphic</kbd>](https://dictionary.cambridge.org/dictionary/english/isomorphic): "The computational problem of deciding whether two graphs are **isomorphic** surfaces in several application domains." [(Niepert et al. 2016)]
 
 #### Algorithm
 <details>
