@@ -14,29 +14,32 @@ Pull requests are welcome, please feel free to raise [pull requests](https://git
 <details>
 <summary><b>Expand to see all recorded general words...</b></summary>
 
-- [<kbd>conduct</kbd>](https://dictionary.cambridge.org/dictionary/english/conduct): "The review will be **conducted** through the above broadened perspectives of human mobility." [(Wang et al. 2019)](https://doi.org/10.1016/j.cities.2022.103939)
-- [<kbd>cater</kbd>](https://dictionary.cambridge.org/dictionary/english/cater): "The present study proposes a universal approach to classifying intra-city tourists, which not only **caters** to the development of geo-big data but also incorporates the perspective of urban tourism functions." [(Park et al. 2023)](https://doi.org/10.1016/j.tourman.2022.104718)
-- [<kbd>deviate</kbd>](https://dictionary.cambridge.org/dictionary/english/deviate): "However, training LSTM with maximum likelihood estimation suffers from the exposure bias problem, where the generated samples might **deviate** from a realistic path with longer sequences." [(Kun et al. 2018)](https://doi.org/10.24963/ijcai.2018/530)                              
+- [<kbd>conduct</kbd>](https://dictionary.cambridge.org/dictionary/english/conduct): "The review will be **conducted** through the above broadened perspectives of human mobility." [(Wang et al., 2019)](https://doi.org/10.1016/j.cities.2022.103939)
+- [<kbd>cater</kbd>](https://dictionary.cambridge.org/dictionary/english/cater): "The present study proposes a universal approach to classifying intra-city tourists, which not only **caters** to the development of geo-big data but also incorporates the perspective of urban tourism functions." [(Park et al., 2023)](https://doi.org/10.1016/j.tourman.2022.104718)
+- [<kbd>deviate</kbd>](https://dictionary.cambridge.org/dictionary/english/deviate): "However, training LSTM with maximum likelihood estimation suffers from the exposure bias problem, where the generated samples might **deviate** from a realistic path with longer sequences." [(Kun et al., 2018)](https://doi.org/10.24963/ijcai.2018/530)                              
 
 </details>
 
+#### Collocation
+- [<kbd>shed light on</kbd>](https://dictionary.cambridge.org/dictionary/english/cast-shed-throw-light-on?q=shed+light+on): "By examining travel flow interactions in transport systems, it is possible to **shed light on** the underlying structural characteristic of regions." [(Yang et al., 2020)](https://doi.org/10.1016/j.compenvurbsys.2020.101521)
+
 #### Adjective
-[(Niepert et al. 2016)]: https://doi.org/10.48550/arXiv.1605.05273
-- [<kbd>arbitrary</kbd>](https://dictionary.cambridge.org/dictionary/english/arbitrary): "The proposed approach builds on concepts from convolutional neural networks (CNNs) for images and extends them to **arbitrary** graphs." [(Niepert et al. 2016)]
+[(Niepert et al., 2016)]: https://doi.org/10.48550/arXiv.1605.05273
+- [<kbd>arbitrary</kbd>](https://dictionary.cambridge.org/dictionary/english/arbitrary): "The proposed approach builds on concepts from convolutional neural networks (CNNs) for images and extends them to **arbitrary** graphs." [(Niepert et al., 2016)]
 
 #### Mathematical
 - general
-  - [<kbd>quadratic</kbd>](https://dictionary.cambridge.org/dictionary/english/quadratic): "While all graph kernels have a training complexity at least **quadratic** in the number of graphs, which is prohibitive for large-scale problems, PATCHY-SAN scales linearly with the number of graphs." [(Niepert et al. 2016)]
+  - [<kbd>quadratic</kbd>](https://dictionary.cambridge.org/dictionary/english/quadratic): "While all graph kernels have a training complexity at least **quadratic** in the number of graphs, which is prohibitive for large-scale problems, PATCHY-SAN scales linearly with the number of graphs." [(Niepert et al., 2016)]
 - graph
-  - [<kbd>isomorphic</kbd>](https://dictionary.cambridge.org/dictionary/english/isomorphic): "The computational problem of deciding whether two graphs are **isomorphic** surfaces in several application domains." [(Niepert et al. 2016)]
+  - [<kbd>isomorphic</kbd>](https://dictionary.cambridge.org/dictionary/english/isomorphic): "The computational problem of deciding whether two graphs are **isomorphic** surfaces in several application domains." [(Niepert et al., 2016)]
 
 #### Algorithm
 <details>
 <summary><b>Expand to see all recorded algorithm words...</b></summary>
 
-- [<kbd>heuristic</kbd>](https://dictionary.cambridge.org/dictionary/english/heuristic): "The A* algorithm is a **heuristic** search algorithm used extensively on the road network." [(Jiang et al. 2023)](https://doi.org/10.48550/arXiv.2301.07103)
-- [<kbd>spherical</kbd>](https://dictionary.cambridge.org/dictionary/english/spherical): "The **spherical** distance can not accurately estimate the expected cost." [(Jiang et al. 2023)](https://doi.org/10.48550/arXiv.2301.07103)
-- [<kbd>merit</kbd>](https://dictionary.cambridge.org/dictionary/english/merit): "Both class of methods have their own **merits**, and transportation system applications require the right methods." [(Yu et al. 2019)](https://doi.org/10.1109/TITS.2019.2910560)
+- [<kbd>heuristic</kbd>](https://dictionary.cambridge.org/dictionary/english/heuristic): "The A* algorithm is a **heuristic** search algorithm used extensively on the road network." [(Jiang et al., 2023)](https://doi.org/10.48550/arXiv.2301.07103)
+- [<kbd>spherical</kbd>](https://dictionary.cambridge.org/dictionary/english/spherical): "The **spherical** distance can not accurately estimate the expected cost." [(Jiang et al., 2023)](https://doi.org/10.48550/arXiv.2301.07103)
+- [<kbd>merit</kbd>](https://dictionary.cambridge.org/dictionary/english/merit): "Both class of methods have their own **merits**, and transportation system applications require the right methods." [(Yu et al., 2019)](https://doi.org/10.1109/TITS.2019.2910560)
 </details>
 
 
