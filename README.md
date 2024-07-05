@@ -106,33 +106,19 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 > *Generative AI can be a valuable aid in writing, editing and peer review – if you use it responsibly, says Dritjon Gruda.*
 
 - "...
-  The value that I [derive] from generative AI is not from the technology itself blindly [churning out] text, but from [engaging] with the tool and using my own expertise to refine what it produces. The dialogue between me and the chatbot both enhances the [coherence] of my work and, over time, teaches me how to describe complex topics in a simper way.
+  The value that I [derive](https://dictionary.cambridge.org/dictionary/english/derive) from generative AI is not from the technology itself blindly [churning out](https://dictionary.cambridge.org/dictionary/english/churn-out) text, but from [engaging](https://dictionary.cambridge.org/dictionary/english/engage) with the tool and using my own expertise to refine what it produces. The dialogue between me and the chatbot both enhances the [coherence](https://dictionary.cambridge.org/dictionary/english/coherence) of my work and, over time, teaches me how to describe complex topics in a simper way.
   ...
-  If something doesn’t quite hit the mark, don’t hesitate to say, “This isn’t quite what I meant. Let’s adjust this part.” Or you can commend its improvements: “This is much clearer, but let’s [tweak] the ending for a stronger transition to the next section.”
+  If something doesn’t quite hit the mark, don’t hesitate to say, “This isn’t quite what I meant. Let’s adjust this part.” Or you can commend its improvements: “This is much clearer, but let’s [tweak](https://dictionary.cambridge.org/dictionary/english/tweak) the ending for a stronger transition to the next section.”
   ...
-  For instance, ChatGPT excels at explaining and justifying the reasons behind specific limitations that I had identified in my review, which helps me to [grasp] the broader implications of the study’s contribution. If I identify methodological limitations, ChatGPT can [elaborate] on these in detail and suggest ways to overcome them in a revision. ... Occasionally, however, its suggestions are [off-base], [far-fetched], irrelevant or simply wrong.
+  For instance, ChatGPT excels at explaining and justifying the reasons behind specific limitations that I had identified in my review, which helps me to [grasp](https://dictionary.cambridge.org/dictionary/english/grasp) the broader implications of the study’s contribution. If I identify methodological limitations, ChatGPT can [elaborate](https://dictionary.cambridge.org/dictionary/english/elaborate) on these in detail and suggest ways to overcome them in a revision. ... Occasionally, however, its suggestions are [off-base](https://dictionary.cambridge.org/dictionary/english/off-base), [far-fetched](https://dictionary.cambridge.org/dictionary/english/far-fetched), irrelevant or simply wrong.
   ...
-  ChatGPT has become [indispensable] in this process, helping me to [craft] precise, empathetic and actionable feedback without replacing human editorial decisions.
+  ChatGPT has become [indispensable](https://dictionary.cambridge.org/dictionary/english/indispensable) in this process, helping me to [craft](https://dictionary.cambridge.org/dictionary/english/craft) precise, empathetic and actionable feedback without replacing human editorial decisions.
   ...
-  I’ve found that this approach both enhances the quality of my feedback and helps to guarantee that I [convey] my thoughts supportively.
+  I’ve found that this approach both enhances the quality of my feedback and helps to guarantee that I [convey](https://dictionary.cambridge.org/dictionary/english/convey) my thoughts supportively.
   ...
-  These tools can [bolster] our capabilities in writing, reviewing and editing. They preserve the essence of scientific inquiry — curiosity, critical thinking and innovation — while improving how we communicate our research.
+  These tools can [bolster](https://dictionary.cambridge.org/dictionary/english/bolster) our capabilities in writing, reviewing and editing. They preserve the essence of scientific inquiry — curiosity, critical thinking and innovation — while improving how we communicate our research.
   ...
   "
-
-[derive]:(https://dictionary.cambridge.org/dictionary/english/derive)
-[churning out]:(https://dictionary.cambridge.org/dictionary/english/churn-out)
-[engaging]:(https://dictionary.cambridge.org/dictionary/english/engage)
-[coherence]:(https://dictionary.cambridge.org/dictionary/english/coherence)
-[tweak]:(https://dictionary.cambridge.org/dictionary/english/tweak)
-[grasp]:(https://dictionary.cambridge.org/dictionary/english/grasp)
-[elaborate]:(https://dictionary.cambridge.org/dictionary/english/elaborate)
-[off-base]:(https://dictionary.cambridge.org/dictionary/english/off-base)
-[far-fetched]:(https://dictionary.cambridge.org/dictionary/english/far-fetched)
-[indispensable]:(https://dictionary.cambridge.org/dictionary/english/indispensable)
-[craft]:(https://dictionary.cambridge.org/dictionary/english/craft)
-[convey]:(https://dictionary.cambridge.org/dictionary/english/convey)
-[bolster]:(https://dictionary.cambridge.org/dictionary/english/bolster)
 
 <sup>*[accessed on 5 Jul, 2024]*<sup/>
 
