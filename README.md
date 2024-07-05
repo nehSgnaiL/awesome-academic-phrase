@@ -30,6 +30,7 @@ Pull requests are welcome, please feel free to raise [pull requests](https://git
 #### Mathematical
 - general
   - [<kbd>quadratic</kbd>](https://dictionary.cambridge.org/dictionary/english/quadratic): "While all graph kernels have a training complexity at least **quadratic** in the number of graphs, which is prohibitive for large-scale problems, PATCHY-SAN scales linearly with the number of graphs." [(Niepert et al., 2016)]
+  - [<kbd>spherical</kbd>](https://dictionary.cambridge.org/dictionary/english/spherical): "The **spherical** distance can not accurately estimate the expected cost." [(Jiang et al., 2023)](https://doi.org/10.48550/arXiv.2301.07103)
 - graph
   - [<kbd>isomorphic</kbd>](https://dictionary.cambridge.org/dictionary/english/isomorphic): "The computational problem of deciding whether two graphs are **isomorphic** surfaces in several application domains." [(Niepert et al., 2016)]
 
@@ -38,7 +39,7 @@ Pull requests are welcome, please feel free to raise [pull requests](https://git
 <summary><b>Expand to see all recorded algorithm words...</b></summary>
 
 - [<kbd>heuristic</kbd>](https://dictionary.cambridge.org/dictionary/english/heuristic): "The A* algorithm is a **heuristic** search algorithm used extensively on the road network." [(Jiang et al., 2023)](https://doi.org/10.48550/arXiv.2301.07103)
-- [<kbd>spherical</kbd>](https://dictionary.cambridge.org/dictionary/english/spherical): "The **spherical** distance can not accurately estimate the expected cost." [(Jiang et al., 2023)](https://doi.org/10.48550/arXiv.2301.07103)
+
 - [<kbd>merit</kbd>](https://dictionary.cambridge.org/dictionary/english/merit): "Both class of methods have their own **merits**, and transportation system applications require the right methods." [(Yu et al., 2019)](https://doi.org/10.1109/TITS.2019.2910560)
 </details>
 
@@ -100,6 +101,40 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 "
 
 <sup>*[accessed on 6 Sep, 2023]*<sup/>
+
+#### Three ways ChatGPT helps me in my academic writing [(Dritjon Gruda, 2023)](https://doi.org/10.1038/d41586-024-01042-3)
+> *Generative AI can be a valuable aid in writing, editing and peer review – if you use it responsibly, says Dritjon Gruda.*
+
+- "...
+  The value that I [derive] from generative AI is not from the technology itself blindly [churning out] text, but from [engaging] with the tool and using my own expertise to refine what it produces. The dialogue between me and the chatbot both enhances the [coherence] of my work and, over time, teaches me how to describe complex topics in a simper way.
+  ...
+  If something doesn’t quite hit the mark, don’t hesitate to say, “This isn’t quite what I meant. Let’s adjust this part.” Or you can commend its improvements: “This is much clearer, but let’s [tweak] the ending for a stronger transition to the next section.”
+  ...
+  For instance, ChatGPT excels at explaining and justifying the reasons behind specific limitations that I had identified in my review, which helps me to [grasp] the broader implications of the study’s contribution. If I identify methodological limitations, ChatGPT can [elaborate] on these in detail and suggest ways to overcome them in a revision. ... Occasionally, however, its suggestions are [off-base], [far-fetched], irrelevant or simply wrong.
+  ...
+  ChatGPT has become [indispensable] in this process, helping me to [craft] precise, empathetic and actionable feedback without replacing human editorial decisions.
+  ...
+  I’ve found that this approach both enhances the quality of my feedback and helps to guarantee that I [convey] my thoughts supportively.
+  ...
+  These tools can [bolster] our capabilities in writing, reviewing and editing. They preserve the essence of scientific inquiry — curiosity, critical thinking and innovation — while improving how we communicate our research.
+  ...
+  "
+
+[derive]:(https://dictionary.cambridge.org/dictionary/english/derive)
+[churning out]:(https://dictionary.cambridge.org/dictionary/english/churn-out)
+[engaging]:(https://dictionary.cambridge.org/dictionary/english/engage)
+[coherence]:(https://dictionary.cambridge.org/dictionary/english/coherence)
+[tweak]:(https://dictionary.cambridge.org/dictionary/english/tweak)
+[grasp]:(https://dictionary.cambridge.org/dictionary/english/grasp)
+[elaborate]:(https://dictionary.cambridge.org/dictionary/english/elaborate)
+[off-base]:(https://dictionary.cambridge.org/dictionary/english/off-base)
+[far-fetched]:(https://dictionary.cambridge.org/dictionary/english/far-fetched)
+[indispensable]:(https://dictionary.cambridge.org/dictionary/english/indispensable)
+[craft]:(https://dictionary.cambridge.org/dictionary/english/craft)
+[convey]:(https://dictionary.cambridge.org/dictionary/english/convey)
+[bolster]:(https://dictionary.cambridge.org/dictionary/english/bolster)
+
+<sup>*[accessed on 5 Jul, 2024]*<sup/>
 
 #### Book
 #### The Book of Why: The New Science of Cause and Effect [(Judea Pearl and Dana Mackenzie, 2018)](https://en.wikipedia.org/wiki/The_Book_of_Why)
