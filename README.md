@@ -122,18 +122,29 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 
 <sup>*[accessed on 5 Jul, 2024]*<sup/>
 
+#### An open letter to graduate students and other procrastinators: it’s time to write [(Dennis J. Hazelett, 2025)](https://doi.org/10.1038/s41587-025-02584-1)
+- "...
+  This letter is for the graduate student who has been asked by peers to begin writeup of a recent series of experiments. This person doesn't known where to begin and has received or absorbed a lot of free and [unsolicited](https://dictionary.cambridge.org/dictionary/english/unsolicited) advice — including what order to write in, how to arrange their office and schedule to maximize productivity, and perhaps some tips on self-care. ... But you may approach the act of writing science with [reluctance](https://dictionary.cambridge.org/dictionary/english/reluctance), as [nuisance](https://dictionary.cambridge.org/dictionary/english/nuisance) or [distraction](https://dictionary.cambridge.org/dictionary/english/distraction) from the 'real', hands-on, day-to-day work.
+  ..., it may seem at times an [insurmountable](https://dictionary.cambridge.org/dictionary/english/insurmountable) challenge to get started.
+  ...
+  Quite the opposite: scientific writing is an iterative process in which ideas become more [succinct](https://dictionary.cambridge.org/dictionary/english/succinct) and more [cogent](https://dictionary.cambridge.org/dictionary/english/cogent) each time you pass over them.
+  ...
+  All this really means is that there is no other way to tackle the largest tasks in life other than in the [increment](https://dictionary.cambridge.org/dictionary/english/increment) of work available to you, which may indeed be discouragingly small. But there is hope.
+  ...
+  The second hard truth I have for you is this: thinking about your project in this way is actually a form of [procrastination](https://dictionary.cambridge.org/dictionary/english/procrastination) — quite possibly the most damaging kind. The only kind of thinking that matters in science is structured thinking. The only way to give structure and substance to your thoughts is to write them down. Writing. Is. Thinking.
+  ..., Get as far away from these people as possible. Anyone can write; it just takes practice. Regardless of your situation, you can still write for yourself, and your voice is great. ... A rule of thumb is that your drafts should get shorter with each iteration.
+  ...
+  Another reason why reading is hard, especially when it comes to technical papers, is that the vast majority of them are poorly written.
+  ...
+  Sitting through a scientific talk is generally challenging, for the same reason that reading most papers is. They’re often prepared without much due given to the basic questions I posed at the beginning of this essay: what is it you mean to say, and to whom are you saying it? When you fail to communicate effectively, in any medium, you’ve wasted your time and that of others. Worse still, you’ve missed out on a precious opportunity to promote your work and that of your colleagues and mentors. The bottom line is: writing is the most essential activity of a scientist because without writing there is no thinking and no real opportunity for exchange in the marketplace of ideas.
+  "
+
+<sup>*[accessed on 24 Apr, 2025]*<sup/>
+
+
 #### Book
 #### The Book of Why: The New Science of Cause and Effect [(Judea Pearl and Dana Mackenzie, 2018)](https://en.wikipedia.org/wiki/The_Book_of_Why)
-- "Causal inference is all about taking this question seriously. It [posits](https://dictionary.cambridge.org/dictionary/english/posit) that
-the human brain is the most advanced tool ever [devised](https://dictionary.cambridge.org/dictionary/english/devise) for managing causes
-and effects. Our brains store an incredible amount of causal knowledge
-which, supplemented by data, we could [harness](https://dictionary.cambridge.org/dictionary/english/harness) to answer some of the most
-[pressing](https://dictionary.cambridge.org/dictionary/english/pressing) questions of our time. More ambitiously, once we really understand
-the logic behind causal thinking, we could [emulate](https://dictionary.cambridge.org/dictionary/english/emulate) it on modern computers
-and create an “artificial scientist.” This smart robot would discover yet
-unknown phenomena, find explanations to pending scientific [dilemmas](https://dictionary.cambridge.org/dictionary/english/dilemma),
-design new experiments, and continually extract more causal knowledge from
-the environment."
+- "Causal inference is all about taking this question seriously. It [posits](https://dictionary.cambridge.org/dictionary/english/posit) that the human brain is the most advanced tool ever [devised](https://dictionary.cambridge.org/dictionary/english/devise) for managing causes and effects. Our brains store an incredible amount of causal knowledge which, supplemented by data, we could [harness](https://dictionary.cambridge.org/dictionary/english/harness) to answer some of the most [pressing](https://dictionary.cambridge.org/dictionary/english/pressing) questions of our time. More ambitiously, once we really understand the logic behind causal thinking, we could [emulate](https://dictionary.cambridge.org/dictionary/english/emulate) it on modern computers and create an “artificial scientist.” This smart robot would discover yet unknown phenomena, find explanations to pending scientific [dilemmas](https://dictionary.cambridge.org/dictionary/english/dilemma), design new experiments, and continually extract more causal knowledge from the environment."
 
 <sup>*[recorded on 24 Nov, 2023]*<sup/>
 
