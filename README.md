@@ -1,5 +1,5 @@
 # Awesome Academic Phrase
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/nehSgnaiL/awesome-academic-phrase/pulls)
 [![star](https://img.shields.io/github/stars/nehSgnaiL/awesome-academic-phrase)](https://github.com/nehSgnaiL/awesome-academic-phrase/stargazers)
 [![fork](https://img.shields.io/github/forks/nehSgnaiL/awesome-academic-phrase)](https://github.com/nehSgnaiL/awesome-academic-phrase/network/members) 
 
@@ -10,6 +10,15 @@ Pull requests are welcome, please feel free to raise [pull requests](https://git
 
 
 ## Table of Contents
+- [General words](#general-words)
+- [Collocation](#collocation)
+- [Adjective](#adjective)
+- [Mathematical](#mathematical)
+- [Algorithm](#algorithm)
+- [Daily life](#daily-life)
+- [Report](#report)
+- [Book](#book)
+
 #### General words
 <details>
 <summary><b>Expand to see all recorded general words...</b></summary>
