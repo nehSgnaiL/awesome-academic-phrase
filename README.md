@@ -50,6 +50,8 @@ Pull requests are welcome, please feel free to raise [pull requests](https://git
 - [<kbd>heuristic</kbd>](https://dictionary.cambridge.org/dictionary/english/heuristic): "The A* algorithm is a **heuristic** search algorithm used extensively on the road network." [(Jiang et al., 2023)](https://doi.org/10.48550/arXiv.2301.07103)
 
 - [<kbd>merit</kbd>](https://dictionary.cambridge.org/dictionary/english/merit): "Both class of methods have their own **merits**, and transportation system applications require the right methods." [(Yu et al., 2019)](https://doi.org/10.1109/TITS.2019.2910560)
+
+- [<kbd>vanilla</kbd>](https://dictionary.cambridge.org/dictionary/english/vanilla): "To enhance the capability of LLMs in representing locations, we avoid using **vanilla** location IDs, as they lack inherent semantic information and fail to capture the contextual relationships between locations." [(Chen et al., 2025)](https://doi.org/10.1145/3711896.3736937)
 </details>
 
 
