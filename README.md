@@ -152,6 +152,17 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 
 <sup>*[accessed on 24 Apr, 2025]*<sup/>
 
+#### What would an AI university look like and how might it change education? [(Jackson Ryan, 2025)](https://www.nature.com/articles/d41586-025-03950-4)
+> *From lectures by avatars to entire qualifications, higher education centred around AI is just around the corner.*
+- "...
+  AI has already had a [seismic](https://dictionary.cambridge.org/dictionary/english/seismic) impact on higher education as existing universities race to integrate a suite of tools and LLMs into administration, curriculum design, teaching and assessment — and at the same time grapple with students’ use of LLMs.
+  ...
+  Although the [pitfalls](https://dictionary.cambridge.org/dictionary/english/pitfall) associated with [jamming](https://dictionary.cambridge.org/dictionary/english/jam) AI into any place of learning are apparent, there is a need to equip students with the skills they will require beyond the education system.
+  ...
+  He points to the vast [disparities](https://dictionary.cambridge.org/dictionary/english/disparity) in the way that AI is being rolled out across institutions in South Africa, creating an imbalance in skills once students complete their studies. ... “What we don’t yet have is an AI university that is truly intentional” in terms of its educational approach, he says. “One that says: this is our philosophy, this is our pedagogy, this is our ethical stance, and this is how AI fits into that vision. **What we have instead is a rush. Everyone is hopping on the AI [bandwagon](https://dictionary.cambridge.org/dictionary/english/bandwagon) and not wanting to be left behind**.”
+  "
+
+<sup>*[accessed on 6 Jan, 2026]*<sup/>
 
 #### Book
 #### The Book of Why: The New Science of Cause and Effect [(Judea Pearl and Dana Mackenzie, 2018)](https://en.wikipedia.org/wiki/The_Book_of_Why)
@@ -170,18 +181,86 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 
 #### Transitions Guide, APA Style 7th Edition [(American Psychological Association, 2023)](https://apastyle.apa.org/instructional-aids/style-transitions-guide.pdf)
 
-| **Types of Transitions**                    | **Possible Phrases (Handbook-Style)**                                                                                                                             | **Notes**                                                   |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| To explain in a different way | • That is,<br>• In other words,                                                                                                                                     |                 |
-| To illustrate                           | • Specifically,<br>• For example,<br>• As one example,<br>• In particular,                                                                                            |        |
-| To emphasize a point/finding         | • Interestingly,<br>• It is interesting that<br>• Surprisingly,<br>• It is surprising that<br>• Importantly,<br>• It is important that                               |             |
-| Your own idea/argument          | • It seems plausible that<br>• It seems reasonable that<br>• It seems logical that<br>• It could be argued that                                                   |  |
-| To show cause/consequence        | • As such,<br>• Consequently,<br>• Therefore,<br>• Thus,                                                                                                              |             |
-| To show contrast                        | • By contrast,<br>• Conversely,<br>• However,<br>• Although ___,<br>• Nevertheless,<br>• Nonetheless,<br>• ___ notwithstanding,<br>• On the one hand, … On the other hand, |       |
-| To show additional examples    | • Similarly,<br>• In a similar manner,<br>• In addition,<br>• Additionally,<br>• Moreover,<br>• Furthermore,<br>• Another study                                         |  `besides` sounds unplan, common used in speaking   |
-| To summarize/conclude              | • In short,<br>• In sum,<br>• Overall,<br>• In general,<br>• Taken together, these findings                                                                           |                       |
-| To show a sequence of events   | • First,<br>• Next,<br>• Then,<br>• Finally                                                                                                                          |               |
-| To relate to hypotheses | • Consistent with<br>• Contrary to<br>• As predicted,<br>• As expected,<br>• In agreement with<br>• In accordance with<br>• Congruent with                          |  |
+##### To explain in a different way
+  - That is,
+  - In other words,
+
+##### To illustrate
+  - Specifically,
+  - For example,
+  - As one example,
+  - In particular,
+
+##### To emphasize a point/finding
+
+  - Interestingly,
+  - It is interesting that
+  - Surprisingly,
+  - It is surprising that
+  - Importantly,
+  - It is important that
+
+##### Your own idea/argument
+
+  - It seems plausible that
+  - It seems reasonable that
+  - It seems logical that
+  - It could be argued that
+
+##### To show cause/consequence
+
+  - As such,
+  - Consequently,
+  - Therefore,
+  - Thus,
+
+##### To show contrast
+
+  - By contrast,
+  - Conversely,
+  - However,
+  - Although ___,
+  - Nevertheless,
+  - Nonetheless,
+  - ___ notwithstanding,
+  - On the one hand, … On the other hand,
+
+##### To show additional examples
+
+  - Similarly,
+  - In a similar manner,
+  - In addition,
+  - Additionally,
+  - Moreover,
+  - Furthermore,
+  - Another study
+*Note: `besides` sounds unplan, common used in speaking*
+
+##### To summarize/conclude
+
+  - In short,
+  - In sum,
+  - Overall,
+  - In general,
+  - Taken together, these findings
+
+##### To show a sequence of events
+
+  - First,
+  - Next,
+  - Then,
+  - Finally
+
+##### To relate to hypotheses
+
+  - Consistent with
+  - Contrary to
+  - As predicted,
+  - As expected,
+  - In agreement with
+  - In accordance with
+  - Congruent with
+
 
 <sup>*[recorded on 4 Dec, 2025]*<sup/>
 
