@@ -18,6 +18,7 @@ Pull requests are welcome, please feel free to raise [pull requests](https://git
 - [Daily life](#daily-life)
 - [Report](#report)
 - [Book](#book)
+- [Blog](#blog)
 
 #### General words
 <details>
@@ -152,7 +153,7 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 
 <sup>*[accessed on 24 Apr, 2025]*<sup/>
 
-#### What would an AI university look like and how might it change education? [(Jackson Ryan, 2025)](https://www.nature.com/articles/d41586-025-03950-4)
+#### What would an AI university look like and how might it change education? [(Jackson Ryan, 2025)](https://doi.org/10.1038/d41586-025-03950-4)
 > *From lectures by avatars to entire qualifications, higher education centred around AI is just around the corner.*
 - "...
   AI has already had a [seismic](https://dictionary.cambridge.org/dictionary/english/seismic) impact on higher education as existing universities race to integrate a suite of tools and LLMs into administration, curriculum design, teaching and assessment — and at the same time grapple with students’ use of LLMs.
@@ -263,4 +264,13 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 
 
 <sup>*[recorded on 4 Dec, 2025]*<sup/>
+
+#### Blog
+#### The [spec](https://dictionary.cambridge.org/dictionary/english/spec) is dead, long live the spec! [(Ravi Mehta and Danny Martinez, 2025)](https://blog.ravi-mehta.com/p/specs-are-the-new-source-code)
+
+- "...Seen in that light, we’re doing AI development backwards. We [craft](https://dictionary.cambridge.org/dictionary/english/craft) careful prompts to communicate our intentions to models. The AI generates code. Then we keep the code and throw away the prompt. "This feels like you [shred](https://dictionary.cambridge.org/dictionary/english/shred) the source and then you very carefully version control the binary," Grove observes.
+  ...
+  William Gibson, the science fiction writer who coined the phrase “cyberspace,” once said: *The future is already here—it’s just not very [evenly](https://dictionary.cambridge.org/dictionary/english/evenly) distributed.* I’m reminded of this when I think about what is and is not possible with AI. Today, AI's gains are [profoundly](https://dictionary.cambridge.org/dictionary/english/profoundly) uneven. Some things—generating code, text, images—have made quantum leaps. **They operate at AI speed**. Other things—talking to customers, discovering their needs, convincing them to buy—**still move at human speed**."
+
+<sup>*[accessed on 5 Mar, 2026]*</sup>
 
