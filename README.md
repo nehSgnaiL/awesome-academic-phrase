@@ -266,6 +266,7 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 <sup>*[recorded on 4 Dec, 2025]*<sup/>
 
 #### Blog
+
 #### The [spec](https://dictionary.cambridge.org/dictionary/english/spec) is dead, long live the spec! [(Ravi Mehta and Danny Martinez, 2025)](https://blog.ravi-mehta.com/p/specs-are-the-new-source-code)
 
 - "...Seen in that light, we’re doing AI development backwards. We [craft](https://dictionary.cambridge.org/dictionary/english/craft) careful prompts to communicate our intentions to models. The AI generates code. Then we keep the code and throw away the prompt. "This feels like you [shred](https://dictionary.cambridge.org/dictionary/english/shred) the source and then you very carefully version control the binary," Grove observes.
@@ -274,3 +275,10 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
 
 <sup>*[accessed on 5 Mar, 2026]*</sup>
 
+#### How to Fix Your Context [(Drew Breunig, 2025)](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
+
+- "...When prompting DeepSeek-v3, the team found that selecting the the right tools becomes critical when you have more than 30 tools. Above 30, the descriptions of the tools begin to overlap, creating confusion. Beyond 100 tools, the model was virtually guaranteed to fail their test. Using RAG techniques to select less than 30 tools yielded [dramatically](https://dictionary.cambridge.org/dictionary/english/dramatically) shorter prompts and resulted in as much as 3x better tool selection accuracy ([Gan and Sun, 2025](https://arxiv.org/abs/2505.03275)).
+  \
+  For smaller models, the problems begin long before we hit 30 tools. One paper we touched on last post, Less is More,” demonstrated that Llama 3.1 8b fails a benchmark when given 46 tools, but succeeds when given only 19 tools ([Paramanayakam et al., 2024](https://arxiv.org/abs/2411.15399)). The issue is context confusion, not context window limitaions."
+
+<sup>*[accessed on 6 Mar, 2026]*</sup>
