@@ -282,3 +282,13 @@ Shigeyoshi Otosaka says that the organically bound form of tritium could [accumu
   For smaller models, the problems begin long before we hit 30 tools. One paper we touched on last post, Less is More,” demonstrated that Llama 3.1 8b fails a benchmark when given 46 tools, but succeeds when given only 19 tools ([Paramanayakam et al., 2024](https://arxiv.org/abs/2411.15399)). The issue is context confusion, not context window limitaions."
 
 <sup>*[accessed on 6 Mar, 2026]*</sup>
+
+#### Peeking Under the Hood of Claude Code [(OutSight AI, 2025)](https://medium.com/@outsightai/peeking-under-the-hood-of-claude-code-70f5a94a9a62)
+- "...(TL;DR) Claude Code front-loads context with tiny, targeted prompts (titles, topic checks, summaries) before doing real work.
+It [sprinkles](https://dictionary.cambridge.org/dictionary/english/sprinkle) “system-reminders” everywhere including system/user prompts, tool calls, even tool results, to reduce [drift](https://dictionary.cambridge.org/dictionary/english/drift)."
+
+#### Context Rot: How Increasing Input Tokens Impacts LLM Performance [(Chroma Research, 2025)](https://research.trychroma.com/context-rot)
+- "Large Language Models (LLMs) are typically [presumed](https://dictionary.cambridge.org/dictionary/english/presume) to process context uniformly—that is, the model should handle the 10,000th token just as reliably as the 100th. However, in practice, this assumption does not hold. We observe that model performance varies significantly as input length changes, even on simple tasks.
+In this report, we evaluate 18 LLMs, including the state-of-the-art GPT-4.1, Claude 4, Gemini 2.5, and Qwen3 models. Our results reveal that models do not use their context uniformly; instead, their performance grows increasingly unreliable as input length grows."
+
+<sup>*[accessed on 7 Mar, 2026]*</sup>
