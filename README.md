@@ -1,12 +1,13 @@
 # Awesome Academic Phrase
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/nehSgnaiL/awesome-academic-phrase/pulls)
+[![Last Update](https://img.shields.io/github/last-commit/nehSgnaiL/awesome-academic-phrase?label=Last%20update&style=flat-square)](https://github.com/nehSgnaiL/awesome-academic-phrase)
 [![star](https://img.shields.io/github/stars/nehSgnaiL/awesome-academic-phrase)](https://github.com/nehSgnaiL/awesome-academic-phrase/stargazers)
 [![fork](https://img.shields.io/github/forks/nehSgnaiL/awesome-academic-phrase)](https://github.com/nehSgnaiL/awesome-academic-phrase/network/members) 
-[![Last Update](https://img.shields.io/github/last-commit/nehSgnaiL/awesome-academic-phrase?label=Last%20update&style=classic)](https://github.com/nehSgnaiL/awesome-academic-phrase)
+
 
 A curated list of academic phrases in research papers.
 
-## 🚀 Why Awesome Academic Phrase Collection?
+## Why Awesome Academic Phrase Collection?
 
 Reading takes time. Along the way, we often come across well-crafted phrases worth keeping.
 
@@ -16,7 +17,7 @@ This repository records and curates those expressions to:
 - ✍️ **Reuse phrasing**: Adapt strong expressions for your own writing
 - 🌱 **Keep humanity**: Preserve unexpected language usage in the age of AI
 
-## 🤝 Contributing
+## Contributing
 Pull requests are welcome, please feel free to raise [pull requests](https://github.com/nehSgnaiL/awesome-academic-phrase/pulls) to add new recommendation.
 
 
