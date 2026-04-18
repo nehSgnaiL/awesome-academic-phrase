@@ -304,3 +304,11 @@ It [sprinkles](https://dictionary.cambridge.org/dictionary/english/sprinkle) “
 In this report, we evaluate 18 LLMs, including the state-of-the-art GPT-4.1, Claude 4, Gemini 2.5, and Qwen3 models. Our results reveal that models do not use their context uniformly; instead, their performance grows increasingly unreliable as input length grows."
 
 <sup>*[accessed on 7 Mar, 2026]*</sup>
+
+#### Humanity's Last Gasp [(Latent.Space, 15 Apr 2026)](https://www.latent.space/p/ainews-humanitys-last-gasp)
+> *Aaron Levie reports that “AI is not causing anyone to do less work right now, and similar to Silicon Valley people feel their teams are the busiest they’ve ever been.”*
+- "How can it both be true that “Agents are doing more work and yet Everyone is working harder”? How can it be true that Claude Mythos has been used internally for 2 months, and yet Claude keeps going down? How can it be true that Model and Agent Labs are more productive than ever and yet [acquihiring](https://dictionary.cambridge.org/dictionary/english/acquihire) and [acquiring](https://dictionary.cambridge.org/dictionary/english/acquire) more than ever?
+A simple thought exercise we’ve made before is the “Turkey problem”, where, based on real evidence and an [abundance](https://dictionary.cambridge.org/dictionary/english/abundance) of historical data, Turkeys should conclude that life is fantastic and all of humanity is set up to make turkeys well fed as far as they’ve ever experienced. Turkey doomsayers would be alarmist, crackpots, and then ignored. Until Thanksgiving.
+Are engineers, or all knowledge workers in general, turkeys, in this scenario? Should our “elasticity” and value of work be increasingly positive, right up to some [crossover](https://dictionary.cambridge.org/dictionary/english/crossover) point we become horses? Now that SWE-Bench is [saturated](https://dictionary.cambridge.org/dictionary/english/saturate) (with SWE-Bench Pro soon to be, Mythos is at 78%) and GDPval rates GPT 5.4 as better than/equal to human experts 83% of the time in most swathes of the economy, what’s left?"
+
+<sup>*[accessed on 18 Apr, 2026]*</sup>
