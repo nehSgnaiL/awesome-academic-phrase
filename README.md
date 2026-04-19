@@ -9,13 +9,11 @@ A curated list of academic phrases in research papers.
 
 ## Why Awesome Academic Phrase Collection?
 
-Reading takes time. Along the way, we often come across well-crafted phrases worth keeping.
+Reading takes time. Along the way, we often come across well-crafted phrases worth keeping. This repository records and curates those expressions to:
 
-This repository records and curates those expressions to:
-
-- 💡 **Learn lively**: Observe how ideas are expressed in lively papers
-- ✍️ **Reuse phrasing**: Adapt strong expressions for your own writing
-- 🌱 **Keep humanity**: Preserve unexpected language usage in the age of AI
+- **Learn lively**: Observe how ideas are expressed in lively papers
+- **Reuse phrasing**: Adapt strong expressions for your own writing
+- **Keep humanity**: Preserve unexpected language usage in the age of AI
 
 ## Contributing
 Pull requests are welcome, please feel free to raise [pull requests](https://github.com/nehSgnaiL/awesome-academic-phrase/pulls) to add new recommendation.
