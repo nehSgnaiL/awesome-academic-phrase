@@ -7,17 +7,13 @@
 
 A curated list of academic phrases in research papers.
 
-## Why Awesome Academic Phrase Collection?
+## Why Awesome Academic Phrase?
 
 Reading takes time. Along the way, we often come across well-crafted phrases worth keeping. This repository records and curates those expressions to:
 
 - **Learn lively**: Observe how ideas are expressed in lively papers
 - **Reuse phrasing**: Adapt strong expressions for your own writing
 - **Keep humanity**: Preserve unexpected language usage in the age of AI
-
-## Contributing
-Pull requests are welcome, please feel free to raise [pull requests](https://github.com/nehSgnaiL/awesome-academic-phrase/pulls) to add new recommendation.
-
 
 ## Table of Contents
 - [General words](#general-words)
@@ -310,3 +306,13 @@ A simple thought exercise we’ve made before is the “Turkey problem”, where
 Are engineers, or all knowledge workers in general, turkeys, in this scenario? Should our “elasticity” and value of work be increasingly positive, right up to some [crossover](https://dictionary.cambridge.org/dictionary/english/crossover) point we become horses? Now that SWE-Bench is [saturated](https://dictionary.cambridge.org/dictionary/english/saturate) (with SWE-Bench Pro soon to be, Mythos is at 78%) and GDPval rates GPT 5.4 as better than/equal to human experts 83% of the time in most swathes of the economy, what’s left?"
 
 <sup>*[accessed on 18 Apr, 2026]*</sup>
+
+#### Codex from 0 to 10M Users [(Latent.Space, 28 July 2026)](https://www.latent.space/p/chatgpt-work)
+> *OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.*
+- We go deep on the shared agent harness behind Codex and ChatGPT Work, why OpenAI brought the experiences together without making them identical, and how persistent computers, artifacts, Sites, plugins, memory, and sub-agents are changing what people can [delegate](https://dictionary.cambridge.org/dictionary/english/delegate) to AI. Akshay explains why some teams are replacing decks and spreadsheets with interactive websites, how agents can [gather](https://dictionary.cambridge.org/dictionary/english/gather) context across code, Slack, documents, and local files, and what OpenAI learned from personal-agent products like OpenClaw.
+Akshay also reflects on how AI is transforming product development itself: why more people will become [generalists](https://dictionary.cambridge.org/dictionary/english/generalist) with a specialty, **why ideas and taste become the bottlenecks when almost anyone can build**, why LLMs still struggle to generate genuinely grounded new ideas, and **why teams must distinguish increased motion from actual progress**.
+
+<sup>*[accessed on 28 July, 2026]*</sup>
+
+## Contributing
+Pull requests are welcome, please feel free to raise [pull requests](https://github.com/nehSgnaiL/awesome-academic-phrase/pulls) to add new recommendation.
