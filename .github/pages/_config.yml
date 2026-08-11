@@ -1,0 +1,22 @@
+title: Awesome Academic Phrase
+description: A curated list of academic phrases in research papers.
+lang: en-US
+url: https://nehsgnail.github.io
+baseurl: /awesome-academic-phrase
+repository: nehSgnaiL/awesome-academic-phrase
+repository_url: https://github.com/nehSgnaiL/awesome-academic-phrase
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - build-source.mjs
+  - validate.mjs
+  - .build
