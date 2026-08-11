@@ -21,6 +21,8 @@ requireMatch(layout, /<shen-site-header><\/shen-site-header>/, "Layout is missin
 requireMatch(layout, /<shen-site-footer><\/shen-site-footer>/, "Layout is missing the shared footer.");
 requireMatch(layout, /customElements\.whenDefined\("shen-site-header"\)[\s\S]*?site-header-ready/, "Layout must release the stable header slot after the shared header loads.");
 requireMatch(layout, /name="theme-color" content="#007aff" media="\(prefers-color-scheme: light\)" data-theme-color="light"[\s\S]*?name="theme-color" content="#0a84ff" media="\(prefers-color-scheme: dark\)" data-theme-color="dark"/, "Layout must expose the portfolio mobile status-bar colors to the shared theme controller.");
+requireMatch(layout, /localStorage\.getItem\("theme"\)[\s\S]*?document\.documentElement\.dataset\.theme[\s\S]*?<meta[\s\S]*?name="theme-color"/, "Layout must restore the selected theme before parsing mobile status-bar colors.");
+requireMatch(layout, /data-theme-color="dark"[\s\S]*?syncThemeColors[\s\S]*?meta\.media[\s\S]*?MutationObserver[\s\S]*?attributeFilter:\s*\["data-theme"\]/, "Layout must keep mobile status-bar colors synchronized with theme changes.");
 requireMatch(layout, /shadowRoot\?\.querySelector\("\[src\]"\)/, "Layout must observe the shared header frame instead of its style element.");
 requireMatch(styles, /html\[data-theme="dark"\]/, "Styles must respond to the shared dark theme.");
 requireMatch(styles, /@media \(prefers-color-scheme: dark\)/, "Styles must retain a system dark-theme fallback.");
