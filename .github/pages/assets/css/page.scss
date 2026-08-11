@@ -198,7 +198,11 @@ html[data-theme="dark"] { @include repo-dark-theme; }
 }
 
 @media (max-width: 600px) {
-  .repo-actions { margin-bottom: 24px; }
+  .repo-actions {
+    margin-right: -20px;
+    margin-bottom: 24px;
+    margin-left: -20px;
+  }
 
   .repo-button {
     flex: 1 1 0;
@@ -207,7 +211,9 @@ html[data-theme="dark"] { @include repo-dark-theme; }
     text-align: center;
   }
 
-  .markdown-body { padding: 28px 16px 56px !important; }
+  // Match the research full-text page: 1rem outer gutter plus the
+  // 1.25rem inset used by its text panel on small screens.
+  .markdown-body { padding: 28px 36px 56px !important; }
   .markdown-body > h1:first-of-type { font-size: 2.25rem; }
   .markdown-body details { padding: 0 12px; }
   .markdown-body summary { margin: 0 -12px; padding: 12px; }
