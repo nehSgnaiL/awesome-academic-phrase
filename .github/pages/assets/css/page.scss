@@ -66,6 +66,7 @@ shen-site-footer {
   color: var(--repo-link);
   background: var(--repo-surface);
   font-size: 14px;
+  font-weight: 400;
   line-height: 20px;
   text-decoration: none !important;
 }
@@ -204,10 +205,11 @@ html[data-theme="dark"] { @include repo-dark-theme; }
     margin-left: -20px;
   }
 
-  .repo-button {
-    flex: 1 1 0;
+  .markdown-body .repo-button {
+    flex: 0 0 auto;
     justify-content: center;
-    padding: 8px 12px;
+    padding: 0.45rem 0.625rem;
+    font-size: 0.8125rem;
     text-align: center;
   }
 
