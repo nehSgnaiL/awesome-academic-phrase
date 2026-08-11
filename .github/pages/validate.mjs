@@ -16,6 +16,10 @@ function requireMatch(source, pattern, message) {
   if (!pattern.test(source)) errors.push(message);
 }
 
+function rejectMatch(source, pattern, message) {
+  if (pattern.test(source)) errors.push(message);
+}
+
 requireMatch(layout, /<script src="\/shared\/site-shell\.js" defer><\/script>/, "Layout must load the shared site shell.");
 requireMatch(layout, /<shen-site-header><\/shen-site-header>/, "Layout is missing the shared header.");
 requireMatch(layout, /<shen-site-footer><\/shen-site-footer>/, "Layout is missing the shared footer.");
@@ -35,6 +39,7 @@ requireMatch(styles, /html\s*\{[\s\S]*?background-color:\s*var\(--repo-bg\)[\s\S
 requireMatch(config, /^baseurl:\s*\/awesome-academic-phrase\s*$/m, "Jekyll base URL must match the project page.");
 requireMatch(workflow, /actions\/deploy-pages@v5/, "Workflow must deploy through the Pages action.");
 requireMatch(generatedReadme, /<details markdown="1">/, "Details blocks must opt into Kramdown parsing.");
+rejectMatch(generatedReadme, /\]\((?!#|https?:\/\/|mailto:|tel:)[^)]+\.(?:md|jsonc|ya?ml)\)/i, "Generated README pages must not retain relative links to repository source files.");
 
 if (errors.length) {
   for (const error of errors) console.error(`::error::${error}`);
