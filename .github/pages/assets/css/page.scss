@@ -45,6 +45,16 @@ shen-site-footer {
   width: 100%;
 }
 
+shen-site-header {
+  height: 73px;
+  overflow: hidden;
+}
+
+shen-site-header.site-header-ready {
+  height: auto;
+  overflow: visible;
+}
+
 .markdown-body {
   box-sizing: border-box;
   width: 100%;
@@ -242,6 +252,12 @@ html[data-theme="dark"] { @include repo-dark-theme; }
   .markdown-body > h1:first-of-type { font-size: 2.25rem; }
   .markdown-body details { padding: 0 12px; }
   .markdown-body summary { margin: 0 -12px; padding: 12px; }
+}
+
+@media (max-width: 639px) {
+  shen-site-header:not(.site-header-ready) {
+    height: 101px;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
