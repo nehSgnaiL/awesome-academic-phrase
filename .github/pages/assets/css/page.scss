@@ -37,7 +37,10 @@
   --repo-button-link: #0a84ff;
 }
 
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+  background-color: var(--repo-bg);
+}
 
 body {
   margin: 0;
@@ -54,6 +57,10 @@ shen-site-footer {
 }
 
 shen-site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background-color: var(--repo-bg);
   height: 73px;
   overflow: hidden;
 }
