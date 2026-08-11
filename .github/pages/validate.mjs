@@ -20,6 +20,8 @@ requireMatch(layout, /<script src="\/shared\/site-shell\.js" defer><\/script>/, 
 requireMatch(layout, /<shen-site-header><\/shen-site-header>/, "Layout is missing the shared header.");
 requireMatch(layout, /<shen-site-footer><\/shen-site-footer>/, "Layout is missing the shared footer.");
 requireMatch(layout, /customElements\.whenDefined\("shen-site-header"\)[\s\S]*?site-header-ready/, "Layout must release the stable header slot after the shared header loads.");
+requireMatch(layout, /name="theme-color" content="#007aff" media="\(prefers-color-scheme: light\)"[\s\S]*?name="theme-color" content="#0a84ff" media="\(prefers-color-scheme: dark\)"/, "Layout must match the portfolio mobile status-bar colors.");
+requireMatch(layout, /shadowRoot\?\.querySelector\("\[src\]"\)/, "Layout must observe the shared header frame instead of its style element.");
 requireMatch(styles, /html\[data-theme="dark"\]/, "Styles must respond to the shared dark theme.");
 requireMatch(styles, /@media \(prefers-color-scheme: dark\)/, "Styles must retain a system dark-theme fallback.");
 requireMatch(styles, /@mixin repo-dark-theme[\s\S]*?--repo-surface:\s*#1c1c1eb3/, "Dark content surfaces must match the portfolio glass background.");
