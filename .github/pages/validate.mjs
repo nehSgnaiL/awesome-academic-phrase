@@ -22,6 +22,8 @@ requireMatch(layout, /<shen-site-footer><\/shen-site-footer>/, "Layout is missin
 requireMatch(layout, /customElements\.whenDefined\("shen-site-header"\)[\s\S]*?site-header-ready/, "Layout must release the stable header slot after the shared header loads.");
 requireMatch(styles, /html\[data-theme="dark"\]/, "Styles must respond to the shared dark theme.");
 requireMatch(styles, /@media \(prefers-color-scheme: dark\)/, "Styles must retain a system dark-theme fallback.");
+requireMatch(styles, /@mixin repo-dark-theme[\s\S]*?--repo-surface:\s*#1c1c1eb3/, "Dark content surfaces must match the portfolio glass background.");
+requireMatch(styles, /@mixin repo-dark-theme[\s\S]*?--repo-backdrop:\s*linear-gradient[\s\S]*?body[\s\S]*?background:\s*var\(--repo-backdrop\),\s*var\(--repo-bg\)/, "Dark page backgrounds must match the portfolio backdrop.");
 requireMatch(styles, /shen-site-header[\s\S]*?height:\s*73px[\s\S]*?@media \(max-width: 639px\)[\s\S]*?height:\s*101px/, "Shared header space must stay stable while its iframe loads.");
 requireMatch(config, /^baseurl:\s*\/awesome-academic-phrase\s*$/m, "Jekyll base URL must match the project page.");
 requireMatch(workflow, /actions\/deploy-pages@v5/, "Workflow must deploy through the Pages action.");
