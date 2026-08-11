@@ -68,6 +68,21 @@
         };
         frame?.addEventListener("load", ready);
       });
+
+      window.addEventListener("pageshow", async (event) => {
+        if (!event.persisted) return;
+        await Promise.all(
+          ["shen-site-header", "shen-site-footer"].map((name) =>
+            customElements.whenDefined(name),
+          ),
+        );
+        document
+          .querySelectorAll("shen-site-header, shen-site-footer")
+          .forEach((shell) => {
+            const frame = shell.shadowRoot?.querySelector("[src]");
+            if (frame) frame.src = frame.src;
+          });
+      });
     </script>
   </head>
   <body>
@@ -81,6 +96,8 @@
         <a
           class="repo-button repo-button-primary"
           href="{{ site.repository_url }}"
+          target="_blank"
+          rel="noopener noreferrer"
           >GitHub Repository</a
         >
       </div>
